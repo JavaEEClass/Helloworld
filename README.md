@@ -7,4 +7,4 @@ Clone code về Intellj IDEA
 Bấm run để chạy
 
 ## Chạy chương trình
-<img src="https://raw.githubusercontent.com/JavaEEClass/images/master/hellworld1.png" width = "200">
+<img src="https://raw.githubusercontent.com/JavaEEClass/images/master/hellworld1.png">
