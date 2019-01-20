@@ -7,4 +7,4 @@ Clone code về Intellj IDEA
 Bấm run để chạy
 
 ## Chạy chương trình
-![Hellworld](https://raw.githubusercontent.com/JavaEEClass/images/master/hellworld1.png)
+![](https://raw.githubusercontent.com/JavaEEClass/images/master/hellworld1.png =300x)
