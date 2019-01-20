@@ -11,6 +11,6 @@
     <title>JavaEE Class</title>
   </head>
   <body>
-  Hellowolrd
+  Helloworld
   </body>
 </html>
